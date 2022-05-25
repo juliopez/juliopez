@@ -6,7 +6,7 @@
 	<version>1.0</version>
 	<packaging>war</packaging>
 	<properties>
-		<spring-version>5.0.1.RELEASE</spring-version>
+		<spring-version>5.2.22.RELEASE</spring-version>
 	</properties>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
